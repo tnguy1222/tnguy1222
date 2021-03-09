@@ -1,1 +1,1 @@
-Hi, my name is Jim Nguyen. I am a undergraduate Computer Programming at Grand Canyon University. I am a future software developer that motivates in applying programming skills to provide quality and long term solutions to the world problems. 
+Hi, my name is Jim Nguyen. I am graduating April 2021 with a degree in Conputer Science - Computer Programming at Grand Canyon University. I am a motivated software developer that aims to apply programming skills to provide quality and long term solutions to the world problems. 
